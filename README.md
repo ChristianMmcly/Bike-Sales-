@@ -3,7 +3,7 @@
 
 ![dashboard](https://github.com/ChristianMmcly/Bike-Sales-/assets/117743442/02689944-c416-48a9-9a0e-66c048b725f5)
 
-Males have an average annual income of 60,124. As a result, they bought more bikes than women, whose average salary was 55774 lower than men's.
+Males have an average annual income of 60,124. As a result, they bought more bikes than women, whose average salary was 55,774 lower than men's.
 
 ![income](https://github.com/ChristianMmcly/Bike-Sales-/assets/117743442/dbdeea2e-d415-497c-9bf0-6132265f2d85)
 
