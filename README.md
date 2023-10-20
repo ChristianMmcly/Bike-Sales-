@@ -11,6 +11,6 @@ Customers typically buy bikes for travels of 0â€“1 mile rather than those of 10â
 
 ![commute](https://github.com/ChristianMmcly/Bike-Sales-/assets/117743442/1b319313-f3ba-4dcf-8f06-df28db0bd480)
 
-Compared to the adolescent and elderly age groups, people in the middle age range (31 to 54 years) bought four times more bikes.
+Compared to the adolescent and elderly age groups, people in the middle age range (31 to 54 years) bought more bikes.
 
 ![age](https://github.com/ChristianMmcly/Bike-Sales-/assets/117743442/4938228d-f26b-4cf7-af45-beddb13ec14b)
